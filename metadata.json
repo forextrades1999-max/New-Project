@@ -1,0 +1,6 @@
+{
+  "name": "Sunlo",
+  "description": "A private conversation and peer-support platform for people who find it difficult to share personal problems. Talk freely, at your own pace, without fear of judgment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
